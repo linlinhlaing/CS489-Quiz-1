@@ -1,0 +1,10 @@
+Requirements discovery
+1.The system should allow the users to search through contacts.
+2.The system should maintain the contact data including first name, last name, company field, job title field, zero or more phone numbers, and zero or more email addresses.
+3.The system should maintain each email address including actual address field and a label (home, mobile, work…) 
+4.The system should maintain each phone number including actual number and label (home, mobile work…)
+5.The system should allow the users to write to indicate different label in address (home, mobile, work)
+6.The system should allow the users to write to indicate different label in phone number (home, mobile, work)
+7.The system should allow the users to update the existing contacts.
+8.The system should allow the users to delete the existing contacts.
+9.The system should be able to merge duplicate contacts.
